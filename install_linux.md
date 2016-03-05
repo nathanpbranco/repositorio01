@@ -1,0 +1,1 @@
+#Instalando o Linux Slitaz em uma Virtual Box
