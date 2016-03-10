@@ -21,3 +21,5 @@
 		* Padrão de teclado região.
 
 ##Pronto! Seu Linux Slitaz está instalado e configurado em sua Virtual Box!
+
+Conta GitHub: https://github.com/nathanpbranco
